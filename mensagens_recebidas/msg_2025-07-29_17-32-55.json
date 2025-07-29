@@ -1,0 +1,27 @@
+{
+  "isStatusReply": false,
+  "chatLid": "45406444589117@lid",
+  "connectedPhone": "558695633196",
+  "waitingMessage": false,
+  "isEdit": false,
+  "isGroup": false,
+  "isNewsletter": false,
+  "instanceId": "3E4EE2CC98EBD05FBCB996DEC512DD4C",
+  "messageId": "0C9B9D6157D67F91248A0C191E8D9035",
+  "phone": "558699805035",
+  "fromMe": false,
+  "momment": 1753821180000,
+  "status": "RECEIVED",
+  "chatName": "Jonhy",
+  "senderPhoto": null,
+  "senderName": "Jonhy Cavalcante",
+  "photo": "https://pps.whatsapp.net/v/t61.24694-24/508433698_1409837847023947_6703721307506186393_n.jpg?ccb=11-4&oh=01_Q5Aa2AGy95_31AE6JkHlYbxgEBEILUGSmX7Xw3W9Q5NaeqDs0w&oe=689642A5&_nc_sid=5e03e0&_nc_cat=107",
+  "broadcast": false,
+  "participantLid": null,
+  "forwarded": false,
+  "type": "ReceivedCallback",
+  "fromApi": false,
+  "text": {
+    "message": "Oiii"
+  }
+}
